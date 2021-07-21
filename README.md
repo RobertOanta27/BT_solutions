@@ -11,4 +11,4 @@ ALGORITHM analysis : BT_solutions/BT_alg1_analysis.docx
 
 MINIMUM RETRIEVING : BT_solutions/BT_minimum_retriving.docx
 
-QUERIS USE CASE :
+QUERIS USE CASE : BT_solutions/BT_queries.docx
