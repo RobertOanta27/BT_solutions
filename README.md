@@ -7,4 +7,4 @@ RANDOM NR GENERATOR : BT_solutions/BancaT_random_nr_gen/main.py
 
       actual solving time : 2h
 
-ALGORITHM analysis :
+ALGORITHM analysis : BT_solutions/BT_alg1_analysis.docx
