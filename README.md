@@ -1,4 +1,8 @@
 # BT_solutions
 BT technical challenge solutions
 
-The code for the random nr generator with weights is in BT_solutions/BancaT_random_nr_gen/main.py
+RANDOM NR GENERATOR : BT_solutions/BancaT_random_nr_gen/main.py
+estimated solving time: 1.5h
+actual solving time : 2h
+
+ALGORITHM analysis :
