@@ -10,3 +10,5 @@ RANDOM NR GENERATOR : BT_solutions/BancaT_random_nr_gen/main.py
 ALGORITHM analysis : BT_solutions/BT_alg1_analysis.docx
 
 MINIMUM RETRIEVING : BT_solutions/BT_minimum_retriving.docx
+
+QUERIS USE CASE :
