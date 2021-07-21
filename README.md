@@ -12,3 +12,5 @@ ALGORITHM analysis : BT_solutions/BT_alg1_analysis.docx
 MINIMUM RETRIEVING : BT_solutions/BT_minimum_retriving.docx
 
 QUERIS USE CASE : BT_solutions/BT_queries.docx
+
+!!!! UPDATE : forgot to add the  oop/solid principles, added them after
